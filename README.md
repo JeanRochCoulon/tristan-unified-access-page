@@ -19,6 +19,8 @@ The Tristan Unified Access Page is the deliverable of the Task 2 of the Work Pac
 Repository | URL/Instructions | TRISTAN Working Items | Partners                    | Status                      | License   |
 ---------- | ---------------- | --------------------- | -------------------------- | --------------------------- | --------- |
 cve2       | [cve2](https://github.com/openhwgroup/cve2) | 2.2.5, 2.2.8, 2.5.7 | NXP, Synthara, Politecnico di Torino | Design and Verification in progress | Solderpad |
+cva6       | [cva6](https://github.com/openhwgroup/cva6) | 2.4.2, 2.4.3 | TDIS | cva6 design in progress | Solderpad |
+core-v-verif | [cva6](https://github.com/openhwgroup/core-v-verif) | 2.4.1 | TDIS | cva6 verification in progress | Solderpad |
 TimeWeaver | [absint.com/timeweaver](https://www.absint.com/timeweaver/) | WI4.1.5 | AbsInt | Waiting for WI4.1.3 / WI2.2.1 | proprietary |
 CompCert   | [github.com/AbsInt/CompCert](https://github.com/AbsInt/CompCert) | WI4.2.4 | AbsInt | Waiting for WI2.5.4 | dual licensed (see repository) |
 
